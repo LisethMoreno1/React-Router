@@ -3,7 +3,7 @@ import React from 'react'
 export default function Principal() {
   return (
     <div>
-      <h1>Principal</h1>
+      <h1>Menu Principal</h1>
       <a href="/AdaLovelace" className="navLi">
         Ada Lovelace
       </a>
